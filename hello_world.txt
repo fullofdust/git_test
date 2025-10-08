@@ -1,1 +1,3 @@
 Hello world!
+
+Adding more text to test commit messages
